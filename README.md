@@ -101,3 +101,5 @@ y developer.mozilla.org/en-US/docs/Glossary/Void_element).
 3. Adición de imágenes y multimedia
 4. Creación de tabla y formulario
 5. Corrección de errores del reto de verificación y finalización del taller
+
+Nota: Todo esto fue estilizado por una IA, a razón de ser más fácilemente legible
